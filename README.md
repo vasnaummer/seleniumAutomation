@@ -21,6 +21,7 @@ seleniumAutomation/
 ├── testng.xml
 └── README.md
 
+
 ## Prerequisites
 
 - Java JDK 8 or higher
@@ -30,28 +31,26 @@ seleniumAutomation/
 ## Setup Instructions
 
 1. Clone the repository:
-
-  git clone https://github.com/vasnaummer/seleniumAutomation.git
+git clone https://github.com/vasnaummer/seleniumAutomation.git
 
 2. Navigate to project folder:
-
-  cd seleniumAutomation
+cd seleniumAutomation
 
 3. Install dependencies:
+mvn clean install
 
-  mvn clean install
 
 ## How to Run Tests
 
 Execute all tests:
-
 mvn test
+
 
 ## Test Reports
 
 After running tests, view the report at:
-
 test-output/index.html
+
 
 ## Author
 
