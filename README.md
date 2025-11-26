@@ -31,15 +31,15 @@ seleniumAutomation/
 
 1. Clone the repository:
 
-git clone https://github.com/vasnaummer/seleniumAutomation.git
+  git clone https://github.com/vasnaummer/seleniumAutomation.git
 
 2. Navigate to project folder:
 
-cd seleniumAutomation
+  cd seleniumAutomation
 
 3. Install dependencies:
 
-mvn clean install
+  mvn clean install
 
 ## How to Run Tests
 
